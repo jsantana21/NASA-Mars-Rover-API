@@ -1,0 +1,9 @@
+Time Spent on the Coding Solution: Approx. 2 hours
+
+Pros:
+    I was able to make a fetch request to the NASA Mars Rover API to recieve 
+    the navigation camera images from the curiosity rover from the last 10 days and keep the images to 3 per day.
+    Though I had to make multiple fecth calls to the API in a for loop as I wasn't able to figure how to cache the 
+    JSON information in the local storage of the browser.
+    
+Room for Improvement:
