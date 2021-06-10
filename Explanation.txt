@@ -1,4 +1,4 @@
-Time Spent on the Coding Solution: Approx. 2 hours
+Time Spent on the Coding Solution: Approx. 2 hours 30 mins
 
 Pros:
     I was able to make a fetch request to the NASA Mars Rover API to recieve 
