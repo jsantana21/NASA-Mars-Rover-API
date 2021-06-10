@@ -9,4 +9,4 @@ Pros:
 Room for Improvement:
      I struggled trying to make my code not be so repetitive and tried to do so by implementing a cache layer to my API as
      expected though I didn't know how to go about doing so. I also ran into trouble handling the undefined error in the case that 
-     the rover hasn't taken 3 pictures.
+     the rover hasn't taken 3 pictures so the API can only output JSON with exactly 3 images.
